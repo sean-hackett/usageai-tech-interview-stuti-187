@@ -6,7 +6,7 @@ We've listed four challenges. Get as far as you can in 1.5 hours. No worries if 
 
 Feel free to use Google, Stack Overflow, or whatever else you like. We only ask that you not ask friends for help!
 
-We'll be looking how much progress you make as well written your code is. We'll pay especially close attention to code quality in Challenge 4.
+We'll be looking at how much progress you make, as well your style of coding. We'll pay especially close attention to code quality in Challenge 4.
 
 We won't be evaluating your submission programmatically. If you find the instructions unclear, go with your gut! If you get stuck, shoot us a message. We're here to help!
 
@@ -67,7 +67,7 @@ You can find documentation for the Nager.Date API [here](https://date.nager.at/s
 
 #### Challenge 3
 
-Holiday time! When the selects a country code from the dropdown, display a line chart showing the number of holidays in that country, by year, for the last decade.
+Holiday time! When the user selects a country code from the dropdown, display a line chart showing the number of holidays in that country, by year, for the last decade.
 
 Use a Numpy array to store the number of holidays per year.
 
