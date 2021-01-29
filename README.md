@@ -2,7 +2,7 @@
 
 Hey!
 
-We've listed four challenges. Get as far as you can in 1.5 hours. No worries if you don't finish.
+We've listed four challenges. Get as far as you can in 45 minutes. No worries if you don't finish.
 
 Feel free to use Google, Stack Overflow, or whatever else you like. We only ask that you not ask friends for help!
 
